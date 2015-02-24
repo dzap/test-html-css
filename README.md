@@ -8,7 +8,7 @@ Please markup the provided website PSD using HTML and CSS. A layered Photoshop f
 + Please use your judgement to make this page responsive. It doesn’t need to be anything fancy, just an appropriately styled mobile and desktop version. A single breakpoint will suffice.
 
 **Bonus Tasks**
-Extra consideration will be given if you can additionally complete the following tasks.
+<p>Extra consideration will be given if you can additionally complete the following tasks.</p>
 + Please ensure the page is functional in IE9+. Pixel perfection is not required, but please ensure the page is functional.
 + Use a "mobile first" approach to responsive design.
 + Please complete the following items without use of a responsive framework, using only CSS media queries.
