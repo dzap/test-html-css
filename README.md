@@ -1,6 +1,9 @@
 DZAP Web Designer HTML/CSS Test
 ===============================
 
+**Please clone/download the test from the following location**
++ https://github.com/dzap/test-web-designer
+
 Please markup the provided website PSD using HTML and CSS. A layered Photoshop file has been provided. Thank you!
 
 **Directions**
